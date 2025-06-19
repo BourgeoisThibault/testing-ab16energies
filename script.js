@@ -1,0 +1,1 @@
+console.log("Le site est en construction. Merci de votre patience !");
